@@ -1,2 +1,2 @@
 TRUE
-IF (AARON = COOL) then (Stephanie = COOL)
+IF (AARON == COOL) then (Stephanie = COOL)
